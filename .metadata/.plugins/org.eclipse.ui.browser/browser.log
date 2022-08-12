@@ -138,3 +138,21 @@
 8월 12, 2022 09:50:49.829 [3228:2812:0812/095049.828:ERROR:device_event_log_impl.cc(214)] [09:50:49.829] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
 8월 12, 2022 09:50:49.842 [3228:2812:0812/095049.832:ERROR:device_event_log_impl.cc(214)] [09:50:49.833] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
 8월 12, 2022 09:51:46.733 [3228:872:0812/095146.732:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8월 12, 2022 10:35:22.33 [3228:2812:0812/103522.033:ERROR:interface_endpoint_client.cc(665)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+8월 12, 2022 13:54:42.923 NEW SESSION
+8월 12, 2022 13:54:42.924 [8308:1920:0812/135442.921:ERROR:device_event_log_impl.cc(214)] [13:54:42.921] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+8월 12, 2022 13:54:42.925 [8308:1920:0812/135442.925:ERROR:device_event_log_impl.cc(214)] [13:54:42.925] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+8월 12, 2022 13:55:40.752 [8308:12336:0812/135540.752:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+8월 12, 2022 14:42:23.745 [8308:6420:0812/144223.722:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+8월 12, 2022 14:42:31.683 [8308:6420:0812/144231.682:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+8월 12, 2022 14:42:41.432 [8308:6420:0812/144241.432:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+8월 12, 2022 14:42:47.997 [8308:6420:0812/144247.996:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+8월 12, 2022 14:42:48.914 [8308:1920:0812/144248.913:ERROR:device_event_log_impl.cc(214)] [14:42:48.912] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+8월 12, 2022 14:43:11.997 [8308:6420:0812/144311.996:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+8월 12, 2022 14:44:57.64 [8308:6420:0812/144457.064:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+8월 12, 2022 14:47:39.856 [8308:6420:0812/144739.855:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+8월 12, 2022 14:47:45.870 [8308:6420:0812/144745.870:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+8월 12, 2022 15:04:43.846 [8308:6420:0812/150443.845:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+8월 12, 2022 15:04:49.899 [8308:6420:0812/150449.899:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+8월 12, 2022 15:42:43.994 [8308:1920:0812/154243.993:ERROR:interface_endpoint_client.cc(665)] Message 0 rejected by interface blink.mojom.WidgetHost
