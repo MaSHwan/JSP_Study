@@ -1,0 +1,20 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+    <% request.setCharacterEncoding("utf-8"); %>
+    <jsp:useBean id="join" class="com.join.JoinBean"/>
+    <jsp:setProperty property="*" name="join"/>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>회원가입 입력 정보 확인</title>
+</head>
+<body>
+	 <tr>
+	 	<td><b>ID : </b></td>
+	 	<td>
+	 		<jsp:getProperty property="id" name="join"/>
+	 	</td>
+	 </tr>
+</body>
+</html>
